@@ -1,0 +1,10 @@
+ma\xproce\dsavion\dao\entities\Avion$AvionBuilder.class
+ma\xproce\dsavion\dao\entities\Avion.class
+ma\xproce\dsavion\mapper\AvionMapper.class
+ma\xproce\dsavion\dao\repositories\AvionRepository.class
+ma\xproce\dsavion\DsavionApplication.class
+ma\xproce\dsavion\dto\AvionDto$AvionDtoBuilder.class
+ma\xproce\dsavion\dto\AvionDto.class
+ma\xproce\dsavion\service\AvionManager.class
+ma\xproce\dsavion\service\AvionService.class
+ma\xproce\dsavion\web\AvionGraphQLController.class
